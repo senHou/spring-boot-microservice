@@ -1,4 +1,4 @@
-package sen.leanring.microservice.currencyexchangeservice;
+package sen.learning.microservice.currencyexchangeservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

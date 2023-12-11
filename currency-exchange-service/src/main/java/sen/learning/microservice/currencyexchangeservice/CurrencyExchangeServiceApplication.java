@@ -1,4 +1,4 @@
-package sen.leanring.microservice.currencyexchangeservice;
+package sen.learning.microservice.currencyexchangeservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
